@@ -1,8 +1,11 @@
 # CYBERTHENUK-images
 Images for [CYBERTHENUK](https://cyberthenuk.thakshiladamsak.ml "A website about CYBERTHENUK")
+[License](https://github.com/ThakshilaDamsak/CYBERTHENUK-images/blob/main/LICENSE "See License")
+
 
 ## Contribute
 You can contribute CYBERTHENUK images to this repo.
+
 
 
 ## Thenuk The God (by Thakshila Damsak)
