@@ -5,7 +5,7 @@ Images for [CYBERTHENUK](https://cyberthenuk.thakshiladamsak.ml "A website about
 
 
 ## Contribute
-You can contribute CYBERTHENUK images to this repo.
+You can contribute images to this repo.
 
 
 
